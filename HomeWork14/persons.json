@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Mikheil",
+    "LastName": "Kharazishvili",
+    "JobPosition": ".NET Developer",
+    "Salary": 9999,
+    "WorkExperience": 9,
+    "PersonAddress": {
+      "Id": 0,
+      "Country": "Georgia",
+      "City": "Tbilisi",
+      "HomeNumber": "999"
+    },
+    "CreateDate": "2023-08-12T07:36:04.043Z",
+    "Email": "Misho999@gmail.com"
+  }
+]
